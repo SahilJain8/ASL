@@ -1,4 +1,4 @@
-American Sign Language (ASL)
+# American Sign Language (ASL)
 American Sign Language (ASL) is a natural language that uses a visual and gestural modality to convey meaning. It is the primary language of many deaf communities in the United States and Canada, as well as some parts of Mexico.
 
 Learning ASL
